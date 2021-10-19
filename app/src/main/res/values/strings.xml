@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Sua Idade</string>
+    <string name="titulo_apresentacao">Qual é a Idade?</string>
+    <string name="txt_versao">Versão - 1.0</string>
+    <string name="txt_da_imagem">TODO</string>
+    <string name="txt_tiulo_principal">Qual é a sua Idade?</string>
+    <string name="pergunta_nome">Qual é o seu primeiro Nome?</string>
+    <string name="resposta_nome">Digite o seu primeiro nome:</string>
+    <string name="pergunta_ano">Em que ano você nasceu?</string>
+    <string name="resposta_ano">Digite o ano que você nasceu</string>
+    <string name="btn_calcular_idade">Calcular Idade</string>
+    <string name="btn_limpar_dados">Limpar Dados</string>
+    <string name="resultado">Resultado</string>
+    <string name="btn_sair">Sair</string>
+</resources>
